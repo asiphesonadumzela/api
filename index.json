@@ -1,0 +1,130 @@
+[
+    {
+        "firstName" : "Asiphesona",
+        "lastName" :"Dumzela",
+        "favHobby" :"Reading",
+        "criminal" : false,
+        "dreamCars":[
+            {
+                "carName": "BMW",
+                "engineCapacity" : 6,
+                "model" : "GT"
+            },
+            {
+                "carName": "Mercedes-Benz",
+                "engineCapacity" : 6,
+                "model" : "s-class coupe"
+            }
+        ]
+    },
+    {
+        "firstName" : "Zenande",
+        "lastName" :"Nocanda",
+        "favHobby" :"Sleeping",
+        "criminal" : false,
+        "dreamCars":[
+            {
+                "carName": "hilux",
+                "engineCapacity" : 6,
+                "model" : "cressida Wagon 5 speed"
+            },
+            {
+                "carName": "Mercedes-Benz",
+                "engineCapacity" : 6,
+                "model" : "GT"
+            }
+        ]
+    },
+    {
+        "firstName" : "Avela",
+        "lastName" :"Nikani",
+        "favHobby" :"Rugby",
+        "criminal" : true,
+        "dreamCars":[
+            {
+                "carName": "Mercedes-Benz",
+                "engineCapacity" : 2,
+                "model" : "A200"
+            },
+            {
+                "carName": "BMW",
+                "engineCapacity" : 2,
+                "model" : "118i"
+            }
+        ]
+    },
+    {
+        "firstName" : "Siyavuya",
+        "lastName" :"Khohlani",
+        "favHobby" :"Playing Games",
+        "criminal" : true,
+        "dreamCars":[
+            {
+                "carName": "Audi",
+                "engineCapacity" : 4,
+                "model" : "A6 e-Tron"
+            },
+            {
+                "carName": "Mercedes-Benz",
+                "engineCapacity" : 3,
+                "model" : "EQG"
+            }
+        ]
+    },
+    {
+        "firstName" : "Sivuyile",
+        "lastName" :"Mtwetwe",
+        "favHobby" :"Coding",
+        "criminal" : false,
+        "dreamCars":[
+            {
+                "carName": "Ferrari",
+                "engineCapacity" : 2,
+                "model" : "Coupe"
+            },
+            {
+                "carName": "Lamborgini",
+                "engineCapacity" : 3,
+                "model" : "1980 Lamborgini Athon"
+            }
+        ]
+    },
+    {
+        "firstName" : "Lithemba",
+        "lastName" :"Mlenze",
+        "favHobby" :"Gaming",
+        "criminal" : true,
+        "dreamCars":[
+            {
+                "carName": "Dodge",
+                "engineCapacity" : 5,
+                "model" : "Challenger"
+            },
+            {
+                "carName": "Mercedes-AMG GT",
+                "engineCapacity" : 3,
+                "model" : "Coupe"
+            }
+        ]
+    },
+    {
+        "firstName" : "Usisipho",
+        "lastName" :"Mxinwa",
+        "favHobby" :"Gaming",
+        "criminal" : true,
+        "dreamCars":[
+            {
+                "carName": "Pagani Huayra",
+                "engineCapacity" : 6,
+                "model" : "Huayra R"
+            },
+            {
+                "carName": "Toyota",
+                "engineCapacity" : 4,
+                "model" : "ae86"
+            }
+        ]
+    }
+
+]
+    
